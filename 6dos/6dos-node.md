@@ -29,20 +29,20 @@ DBP: a weight attribute of the node, used to describe the number of the node's a
 
 DCP: a weight attribute of a node, used to describe the credit of the node
 
-### 4. Node icon
+### 4. Node 
 Normal Node:
 
-![Normal Node]](https://raw.githubusercontent.com/de-por/documents/main/6dos/images/6dos-reward-example.png)
+![Normal Node](https://raw.githubusercontent.com/de-por/documents/main/6dos/images/normal_node.png ){:height="auto" width="600px"}
 
 Main Node:
 
-![Main Node]](https://raw.githubusercontent.com/de-por/documents/main/6dos/images/main_node.png)
+![Main Node](https://raw.githubusercontent.com/de-por/documents/main/6dos/images/main_node.png){:height="auto" width="600px"}
 
 Mega Node:
 
-![Mega Node]](https://raw.githubusercontent.com/de-por/documents/main/6dos/images/mega_node.png)
+![Mega Node](https://raw.githubusercontent.com/de-por/documents/main/6dos/images/mage_node.png){:height="auto" width="600px"}
 
 Super Node:
 
-![Super Node]](https://raw.githubusercontent.com/de-por/documents/main/6dos/images/super_node.png)
+![Super Node](https://raw.githubusercontent.com/de-por/documents/main/6dos/images/super_node.png){:height="auto" width="600px"}
 
