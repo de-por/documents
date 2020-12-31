@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DePOR products
-permalink: /6dos/node
+permalink: /depor/products
 ---
 
 ## DePOR Ecology
