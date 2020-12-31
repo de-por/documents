@@ -1,3 +1,8 @@
+---
+layout: page
+title: DePOR Beta testing
+permalink: /beta/
+---
 ## DePOR beta test experimental features
 
 If you want to try experimental features of the DePOR DAPP before it’s released, you can join the beta tester program. As a beta tester, you’ll become an important part of the DAPP’s development.
