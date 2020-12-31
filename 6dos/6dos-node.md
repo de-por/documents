@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 6DOS Network Node
-permalink: /6dos/node
+permalink: /6dos/node/
 ---
 
 ## 6DOS Network Node

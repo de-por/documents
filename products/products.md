@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DePOR products
-permalink: /depor/products
+permalink: /depor/products/
 ---
 
 ## DePOR Ecology

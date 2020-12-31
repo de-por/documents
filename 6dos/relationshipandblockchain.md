@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 6DOS Network Node
-permalink: /6dos/relationship-blockchain
+permalink: /6dos/relationship-blockchain/
 ---
 
 ## Interpersonal relationship and blockchain
