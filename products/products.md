@@ -14,7 +14,8 @@ DePOR.protocol is a cross-chain protocol. In the initial stage, developers will 
 ### 3. DeFarm 
 DeFarm is a decentralized project release center, DeFarm may be freely distributed innovation projects by 6DOS networks, global quality projects are by DeFarm can complete the transformation to upgrade, bring a block chain innovation revolution.
 
-### 4. Decentralized Exchange Porsche 
+### 4. Porsche 
+Porsche is A Decentralized Exchange with new trading model,price algorithm and market mechanism.
 The current decentralized exchanges can only satisfy single-chain transactions, such as uniswap , 1inch , balancer and other exchanges. Porsche DEX will satisfy multi-chain and cross-chain barrier-free transactions. Whether Porsche needs to turn on liquidity mining will pass DePOR.governance voting resolution
 
 ### 5. Decentralized agency mechanism DEAO 

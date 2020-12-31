@@ -14,7 +14,8 @@ DPO is the only certificate for all products and ecological circulation of DePOR
 - Ecological circulation consumption
 
 ### 1.Supply
-DPO total supply of 162 000 000 pieces, wherein Ethereum supply 84000000 Mei; depor main grid supply 162 000 000 pieces, of which 84 million for mapping DPO (the ERC) , add 78 million pieces.
+There are 162,000,000 DPO totally to supply,including 84,000,000 DPO(ERC20) and 78,000,000 DPO(DePOR Chain Mainnet).
+
 
 #### 1.1 DPO(ERC20) allocation
 
@@ -30,9 +31,9 @@ DPO total supply of 162 000 000 pieces, wherein Ethereum supply 84000000 Mei; de
 > The contributor reward DPO will be pre-mined and held by the foundation.
 
  
-> DEAO ( Beat ) description:
+> DEAO ( Beta ) description:
 > 
-> DEAO ( Beat ) will be pre- mined and transferred to the corresponding smart contract pool. DEAO (Beta) will be available for a limited time and will be permanently destroyed if it is not sold.
+> DEAO ( Beta ) will be pre- mined and transferred to the corresponding smart contract pool. DEAO (Beta) will be available for a limited time and will be permanently destroyed if it is not sold.
 
  
 > DEAO description:

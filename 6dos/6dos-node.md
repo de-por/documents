@@ -32,18 +32,17 @@ DCP: a weight attribute of a node, used to describe the credit of the node
 ### 4. Node icon
 Normal Node:
 
-![Normal]](./images/normal_node.png)
-**![image]**
+![Normal Node]](https://raw.githubusercontent.com/de-por/documents/main/6dos/images/6dos-reward-example.png)
 
 Main Node:
 
-![Normal]](./images/main_node.png)
+![Main Node]](https://raw.githubusercontent.com/de-por/documents/main/6dos/images/main_node.png)
 
 Mega Node:
 
-![Normal]](./images/mage_node.png)
+![Mega Node]](https://raw.githubusercontent.com/de-por/documents/main/6dos/images/mega_node.png)
 
 Super Node:
 
-![Normal]](./images/super_node.png)
+![Super Node]](https://raw.githubusercontent.com/de-por/documents/main/6dos/images/super_node.png)
 
