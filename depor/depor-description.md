@@ -31,19 +31,19 @@ There are four basic roles in maintaining the DePOR network: Collector , blocker
 
 **![img 4-1 here]**
 
-#### 2.1 Collator
+#### 2.1 Collector
 Collector is a group that helps cheker create effective parachain blocks. They will run a full node of a particular parachain, which also means that they have all the necessary information to package new blocks and execute transactions, just like miners in the current PoW blockchain. Under normal circumstances, they will collect and execute transactions, create an "unsealed" block, and submit it together with a zero-knowledge proof to one or more currently responsible for proposing the parachain area cheker of the block .
 
-About Collector, Nominator,cheker precise relationship may also be modified. At first, we hope that Collector and cheker can work closely together, because there may be only some (or even one) parachains with very small transactions. The initial client implementation will include an RPC interface to support a Parachain Collector node to unconditionally provide a valid parachain block to a (relay chain) cheker node. As the cost of maintaining all fully synchronized parachains is getting higher and higher, we have designed additional structures to help separate independent, economically driven, and other participants.
+About Collector, Offer,cheker precise relationship may also be modified. At first, we hope that Collector and cheker can work closely together, because there may be only some (or even one) parachains with very small transactions. The initial client implementation will include an RPC interface to support a Parachain Collector node to unconditionally provide a valid parachain block to a (relay chain) cheker node. As the cost of maintaining all fully synchronized parachains is getting higher and higher, we have designed additional structures to help separate independent, economically driven, and other participants.
 
 In the end, we hope to see the Collector group competitively collect information for more handling fees. For a period of time, in order to continue to increase share revenue rewards, these Collectors may only serve a specific cheker group. Or the freelance Collector can simply create a market that provides effective parachain blocks instead of getting competitive share rewards that are paid immediately. Similarly, the decentralized offer group will also allow multiple secured participants to coordinate and share the responsibilities of the cheker . This ability ensures the openness of participation and contributes to a more decentralized system.
 
-#### 2.2 Nominator
-Nominator is an equity group, they entrust the security deposit to the cheker . They have no more roles, except to express by investing capital risky: they trust a particular cheker (or group) to maintain the entire network on their behalf. According to their deposit ratio, they will also receive rewards and deductions in the same proportion as the total deposit of cheker .
+#### 2.2 Offer
+Offer is an equity group, they entrust the security deposit to the cheker . They have no more roles, except to express by investing capital risky: they trust a particular cheker (or group) to maintain the entire network on their behalf. According to their deposit ratio, they will also receive rewards and deductions in the same proportion as the total deposit of cheker .
 
 Like the Collector below , offer is similar to the current miners of the PoW network.
 
-#### 2.3 Validator
+#### 2.3 Cheker
 Cheker has the highest authority to help package new blocks in the DePOR network. cheker needs to mortgage enough deposit, because we allow other offers with funds to recommend one or more chekers that can represent them , so part of the deposit of cheker is not owned by them, but belongs to the offer .
 
 A cheker must run a relay chain client on a highly available and high-bandwidth machine. On each block, the node must be prepared to receive a new block on the submitted parachain. This process involves accepting, verifying, and republishing candidate blocks. The appointment of cheker is deterministic, but it is actually difficult to predict. Because chekers cannot be expected to have fully synchronized data for all parachains, they hope to assign the work of proposing a new block of parachains to a third party, which is Collector .
